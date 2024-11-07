@@ -49,7 +49,7 @@
     "metro-react-native-babel-preset": "^0.53.1",
     "mocha": "^6.0.0",
     "react": "16.9.0",
-    "react-native": "0.61.4",
+    "react-native": "0.69.12",
     "react-test-renderer": "16.8.3"
   },
   "typings": "typings/react-native-interactable.d.ts",
